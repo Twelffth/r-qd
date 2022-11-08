@@ -1,0 +1,23 @@
+body {
+    background-image: url(bg1.png);
+    background-size: inherit;
+    font-family: 'Michroma', sans-serif;
+    
+}
+
+
+h1{
+font-size: 60px;
+margin-left: 120px;
+
+
+}
+
+#timer{
+float: right;
+
+}
+#show_sketch{
+    float: right;
+    
+    }
